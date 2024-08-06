@@ -1,11 +1,10 @@
-<img align="right" src="https://vistor-badge.laobi.icu/badge?page_id=Natanel-Solomonov.Natanel-Solomonov"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center"> 
-  <img src="https://readme-typing-sbg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Natanel+Solomonov;"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Natanel Solomonov!;" />
 </h1>
 
-<h3 align="center">A passionate developer and computer science student studying at the University of Maryland</h3>
-
+<h3 align="center">A passionate developer and Computer Science Student Studying at the Univeristy of Maryland</h3>
 <br/> 
 <div align="center">
   <ul>
