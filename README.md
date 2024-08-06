@@ -27,4 +27,17 @@ _<img align = "right" src= "https://vistor-badge.laobi.icu/badge?page_id=Natanel
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <div>
+    
+<hr/>
+
+<h2 alight= "center">🛠️ Languages- Frameworks- Tools 🛠️ </h2>
+<br/>
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,expressjs, nodejs, html,css java,python,github" />
+    <img src="https://skillicons.dev/icons?i=javascript, vscode, eclipse, julia, mongodb" /><br>
+</div>
+
+    
+  </a>
+
 
