@@ -1,4 +1,4 @@
-<img align = "right" src= "https://vistor-badge.laobi.icu/badge?page_id=Natanel-Solomonov.Natanel-Solomonov"/>
+_<img align = "right" src= "https://vistor-badge.laobi.icu/badge?page_id=Natanel-Solomonov.Natanel-Solomonov"/>
 
 <h1 align = "center"> 
   <img src="https://readme-typing-sbg.herokuapp.com/?
@@ -12,10 +12,21 @@
 
 - 🔭 I’m currently working on **My Personal Portfolio Website**
 - 🏁 I just finished working on **A fitness ChatBot/Personal fitness Assistant**
-- 🌱 I’m currently learning **C, Django, Julia,**
+- 🌱 I’m currently learning **C, Django, Spring Boot**
 - 👀 I'm currently looking for **Internships and other profesional opportunities** 
 - 💬 Ask me about **Java, JavaScript, Node.js, Express.js, React**
-- 📫 How to reach me:**Phone Number:(215)-913-6110 Email: natanelsolomonov76@gmail.com
 - ⚡ Fun fact: **I am a student athlete, and row on the UMD rowing team 🚣‍♂️--> Roll Terps!!!**
 - 
+</div>
+
+<div alight ="center"> 
+  <a href = "mailto:natanelsolomonov76@gmail.com"> 
+    <img src = "https://img.shields.io/badge/Gmail-333333?style = for-the-badge&logo=gmail&logoColor=red" target = "_blank"/>
+</a>
+<a href = "https://www.linkedin.com/in/natanel-solomonov-13a606239/" target="_blank> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style= for-the-badge&logo=linkedin&logo&logoColor = white" target="_blank/>
+
+
+</a>
+  
 </div>
