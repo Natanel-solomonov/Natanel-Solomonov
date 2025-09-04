@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Natanel-Solomonov.Natanel-Solomonov" alt="Visitor Badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Natanel+Solomonov!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Natanel+Solomonov!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate developer and Computer Science Student Studying at the University of Maryland</h3>
@@ -51,5 +51,9 @@
 <hr/>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Message+me+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+</h3>
+
+<h3 align="center">
+  🚀 I've been working on something big in a private repo :) Stay Tuned.
 </h3>
 <br/>
