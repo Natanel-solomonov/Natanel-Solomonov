@@ -8,12 +8,10 @@
 <br/> 
 <div align="center">
   <ul>
-    <li>🔭 I’m currently working on <b>My Personal Portfolio Website</b></li>
-    <li>🏁 I just finished working on <b>A fitness ChatBot/Personal fitness Assistant</b></li>
-    <li>🌱 I’m currently learning <b>C, Django, Spring Boot</b></li>
+    <li>🔭 I’m currently working on <b>Something Big in a private repo(Cant sat yet)</b></li>
+    <li>🏁 I just finished working on <b>A health tech startup/project</b></li>
     <li>👀 I'm currently looking for <b>Internships and other professional opportunities</b></li>
-    <li>💬 Ask me about <b>Java, JavaScript, Node.js, Express.js, React</b></li>
-    <li>⚡ Fun fact: <b>I am a student athlete, and row on the UMD rowing team 🚣‍♂️--> Roll Terps!!!</b></li>
+    <li>💬 Ask me about <b>Java, JavaScript, Node.js, Express.js, React, Django</b></li>
   </ul>
 </div>
 
